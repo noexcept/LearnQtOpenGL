@@ -10,3 +10,4 @@ find_package(Qt6 COMPONENTS Core Gui Widgets OpenGLWidgets REQUIRED)
 
 add_subdirectory(001_QOpenGLWidget)
 add_subdirectory(002_Triangle)
+add_subdirectory(003_ThreeTriangleEBO)
